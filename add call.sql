@@ -1,0 +1,1 @@
+call add_employess_discipline(1, 100);

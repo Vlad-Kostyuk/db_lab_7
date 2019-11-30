@@ -18,7 +18,6 @@ begin
   (first_name, last_name, surname, birthday, stazh, passport, id_position,
    id_academic_status, id_degree);
   
--- return true;
 	
 end;//
 DELIMITER ;
