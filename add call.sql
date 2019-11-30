@@ -1,1 +1,1 @@
-call add_employess_discipline(1, 100);
+call add_employees_discipline(1, 100);

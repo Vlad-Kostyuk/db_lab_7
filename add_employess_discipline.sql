@@ -1,5 +1,5 @@
 DELIMITER //
- create procedure add_employess_discipline(
+ create procedure add_employees_discipline(
 in id_employees int,
 in id_discipline int)
 begin
